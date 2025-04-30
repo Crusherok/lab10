@@ -40,6 +40,11 @@
 .read-the-docs {
   color: #888;
 }
+nav a.active {
+  color: blue;
+  font-weight: bold;
+}
+
 .data-fetcher {
   max-width: 800px;
   margin: 0 auto;
